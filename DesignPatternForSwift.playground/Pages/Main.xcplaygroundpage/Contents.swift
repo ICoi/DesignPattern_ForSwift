@@ -4,6 +4,7 @@
 ### Table Of Contents
 
 1. [Abstract Factory](AbstractFactory)
+2. [Builder](Builder)
 
 */
 
